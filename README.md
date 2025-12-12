@@ -10,7 +10,7 @@ The data stored in this repository includes also the INE Official Autonomous Com
 | -------- | ----------- |
 | INSPIREID | Provisional INSPIRE id |
 | COUNTRY | Country id |
-| NATLEV | Jerarchical level as an [INSPIRE](https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/) url |
+| NATLEV | Hierarchical level as an [INSPIRE](https://inspire.ec.europa.eu/codelist/AdministrativeHierarchyLevel/) url |
 | NATLEVNAME | Literal `"Comunidad Autónoma"` or `"Provincia"` |
 | NATCODE | National code |
 | NAMEUNIT | Administrative Unit name |
